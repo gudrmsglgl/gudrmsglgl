@@ -8,7 +8,8 @@ i'm Android Developer
 
 ### 📕 Blog
 
-[![Velog Badge](https://img.shields.io/badge/David-228B22?style=flat-square&logo=Velog&logoColor=green&link="https://open.kakao.com/o/s6zRnkad")](https://open.kakao.com/o/s6zRnkad)
+
+[![Velog Badge](https://img.shields.io/badge/David-228B22?style=flat-square&logo=Velog&logoColor=green&link="https://velog.io/@gudrmsglgl")](https://velog.io/@gudrmsglgl)
 
 <!--
 **gudrmsglgl/gudrmsglgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
