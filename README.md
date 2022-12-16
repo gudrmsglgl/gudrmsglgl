@@ -6,6 +6,10 @@ i'm Android Developer
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudrmsglgl@gmail.com)](mailto:gudrmsglgl@gmail.com)
 [![Kakao Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link="https://open.kakao.com/o/s6zRnkad")](https://open.kakao.com/o/s6zRnkad)
 
+### 📕 Blog
+
+[![Velog Badge](https://img.shields.io/badge/David-228B22?style=flat-square&logo=Velog&logoColor=green&link="https://open.kakao.com/o/s6zRnkad")](https://open.kakao.com/o/s6zRnkad)
+
 <!--
 **gudrmsglgl/gudrmsglgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
